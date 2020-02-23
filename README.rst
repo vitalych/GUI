@@ -7,8 +7,9 @@ It uses SDL to draw pixels on the screen, but otherwise draws all the widgets on
 
 Current status:
 
-- Create simple windows consisting of one solid color
+- Supported controls: form, label, button, grid layout
 - Attach custom mouse event handlers to windows
-- The sample app displays two windows that can be focused and dragged
+- Support MS-DOS CPI fonts and Windows cursor files
+- Sample app that shows a functional calculator
 
 .. image:: docs/pic1.png
